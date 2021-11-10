@@ -3,7 +3,7 @@
 
 Dogs vs Cats binary classifier...  A logistic regression built from scratch
 
-This repository has two independently working files ... (You just need to run logisticregression file for this project)
+This repository has two independently working files ... (You just need to run logisticregression file to run the project)
 imagesdatatocsv -  this file converts all the images inside directory to image array using PIL and converts it to np array 
                   and hence stores in a csv file using pandas
  logistic regression - this is the main file which loads the images into array and then perform logistic regression in that... 
